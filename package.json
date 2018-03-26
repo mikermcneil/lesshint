@@ -1,5 +1,5 @@
 {
-  "name": "lesshint",
+  "name": "@sailshq/lesshint",
   "description": "A tool to aid you in writing clean and consistent Less.",
   "version": "4.6.5",
   "main": "./lib/index.js",
