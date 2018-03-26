@@ -21,7 +21,7 @@ Please observe the guidelines and conventions laid out in the [Sails project con
 
 #### lesshint license
 
-[lesshint](http://lesshint.com/) is free and open source under the [MIT License](https://github.com/lesshint/lesshint/blob/v4.6.5/LICENSE.md).
+[lesshint](https://www.npmjs.com/package/lesshint) is free and open source under the [MIT License](https://github.com/lesshint/lesshint/blob/v4.6.5/LICENSE.md).
 
 #### Supplementary license
 
